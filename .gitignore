@@ -1,3 +1,4 @@
 evaluation_set/cdc_ibm/articles/*
 temp
 temp/*
+.ipynb_checkpoints/*
