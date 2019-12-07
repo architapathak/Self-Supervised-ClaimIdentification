@@ -1,0 +1,1051 @@
+[
+  {
+    "id": 200,
+    "authors": "Henry Wolff",
+    "headline": "Early Voting Data Shows African American Turnout Dropping",
+    "type": "3",
+    "urls": "amren.com",
+    "evidence": [
+      "https://www.theatlantic.com/politics/archive/2016/11/is-black-early-voting-turnout-a-cause-for-concern/506366/",
+      "https://www.nbcnews.com/storyline/2016-election-day/black-turnout-down-north-carolina-after-cuts-early-voting-n679051"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 201,
+    "authors": "Henry Wolff",
+    "headline": "Black Turnout Soft in Early Voting, Boding Ill for Hillary Clinton",
+    "type": "3",
+    "urls": "amren.com",
+    "evidence": [
+      "https://www.nytimes.com/2016/11/02/us/politics/black-turnout-falls-in-early-voting-boding-ill-for-hillary-clinton.html"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 202,
+    "authors": "Henry Wolff",
+    "headline": "It’s Harder for Clinton Supporters to Respect Trump Backers Than Vice Versa",
+    "type": "3",
+    "urls": "amren.com",
+    "evidence": [
+      "https://www.pewresearch.org/fact-tank/2016/11/01/its-harder-for-clinton-supporters-to-respect-trump-backers-than-vice-versa/",
+      "https://www.pewresearch.org/fact-tank/2016/11/01/its-harder-for-clinton-supporters-to-respect-trump-backers-than-vice-versa/"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 203,
+    "authors": "Henry Wolff",
+    "headline": "This Professor Devotes Her Life to Countering Dangerous Speech. She Can’t Ignore Donald Trump’s.",
+    "type": "3",
+    "urls": "amren.com",
+    "evidence": [
+      "https://www.washingtonpost.com/news/inspired-life/wp/2016/10/24/this-professor-devotes-her-life-to-countering-dangerous-speech-she-cant-ignore-donald-trumps/"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 204,
+    "authors": "Henry Wolff",
+    "headline": "Donald Trump: Minnesota Has ‘Suffered Enough’ Accepting Refugees",
+    "type": "3",
+    "urls": "amren.com",
+    "evidence": [
+      "https://time.com/4560078/donald-trump-minnesota-somali-refugees/",
+      "https://www.buzzfeednews.com/article/claudiakoerner/trump-vs-somali-refugees"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 205,
+    "authors": "Alex Ansary",
+    "headline": "Feds warn NYC officials about possible al Qaeda attack",
+    "type": "3",
+    "urls": "amtvmedia.com",
+    "evidence": [
+      "https://www.cbsnews.com/news/sources-us-intel-warning-of-possible-al-qaeda-attacks-in-us-monday/"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 206,
+    "authors": "Alex Ansary",
+    "headline": "Hillary Clinton in lead a day before Election Day",
+    "type": "3",
+    "urls": "amtvmedia.com",
+    "evidence": [
+      "https://www.usatoday.com/story/news/politics/onpolitics/2016/11/07/poll-roundup-clinton-has-edge-one-day-before-election/93414738/",
+      "https://www.theguardian.com/us-news/2016/nov/07/polls-us-election-accuracy-margin-error-clinton-trump"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 207,
+    "authors": "K. Campbell",
+    "headline": "Photo of Trump Jr. Confronting Woman With Broken Down Car Goes Viral… Literally Pushes It Out of Way",
+    "type": "3",
+    "urls": "conservativetribune.com",
+    "evidence": [
+      "https://www.cnn.com/2016/10/28/politics/donald-trump-jr-helps-woman-push-stalled-car/index.html"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 208,
+    "authors": "dailouk",
+    "headline": "Experts: Obama Helped Trump With Illegal Database",
+    "type": "3",
+    "urls": "dailysquib.co.uk",
+    "evidence": [
+      "https://www.washingtonpost.com/posteverything/wp/2016/11/22/theres-a-federal-database-of-undocumented-immigrants-like-me-erase-it-while-theres-still-time/",
+      "https://www.theguardian.com/commentisfree/2016/nov/21/obama-deportation-mcahine-damage-trump"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 209,
+    "authors": "",
+    "headline": "BREAKING: DOJ FINALLY Secures Warrant To Inspect Huma’s Emails | Daily Wire",
+    "type": "3",
+    "urls": "dailywire.com",
+    "evidence": [
+      "https://www.usatoday.com/story/news/politics/2016/10/30/feds-talks-abedin-get-access-emails/93014424/",
+      "https://www.nytimes.com/2016/10/31/us/politics/justice-department-warrant-clinton-abedin-fbi.html"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 210,
+    "authors": "Admin",
+    "headline": "Artificial intelligence ‘robot’ says Trump will win",
+    "type": "3",
+    "urls": "darkmoon.me",
+    "evidence": [
+      "https://www.cnbc.com/2016/10/28/donald-trump-will-win-the-election-and-is-more-popular-than-obama-in-2008-ai-system-finds.html"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 211,
+    "authors": "Kaitlyn Stegall",
+    "headline": "Clinton emails: FBI chief may have broken law, says top Democrat",
+    "type": "3",
+    "urls": "endtime.com",
+    "evidence": [
+      "https://www.theguardian.com/us-news/2016/oct/31/james-comey-fbi-hillary-clinton-hatch-act-election",
+      "https://www.cnn.com/2016/10/30/politics/harry-reid-letter-hatch-act/index.html"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 212,
+    "authors": "Kaitlyn Stegall",
+    "headline": "Obama Faults F.B.I. on Emails, Citing ‘Incomplete Information’",
+    "type": "3",
+    "urls": "endtime.com",
+    "evidence": [
+      "https://www.nytimes.com/2016/11/03/us/politics/obama-james-comey-fbi-hillary-clinton.html",
+      "https://www.theguardian.com/us-news/2016/nov/02/barack-obama-fbi-hillary-clinton-emails-election-polls"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 213,
+    "authors": "Kaitlyn Stegall",
+    "headline": "‘The FBI is Trumpland’: anti-Clinton atmosphere spurred leaking, sources say",
+    "type": "3",
+    "urls": "endtime.com",
+    "evidence": [
+      "https://www.theguardian.com/us-news/2016/nov/03/fbi-leaks-hillary-clinton-james-comey-donald-trump"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 214,
+    "authors": "Kaitlyn Stegall",
+    "headline": "US on alert for terror strikes around elections",
+    "type": "3",
+    "urls": "endtime.com",
+    "evidence": [
+      "https://www.cbsnews.com/news/sources-us-intel-warning-of-possible-al-qaeda-attacks-in-us-monday/"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 215,
+    "authors": "The European Union Times",
+    "headline": "Trump warns of World War III if Clinton is elected",
+    "type": "3",
+    "urls": "eutimes.net",
+    "evidence": [
+      "https://www.cnn.com/2016/10/25/politics/donald-trump-hillary-clinton-world-war-iii-syria/index.html",
+      "https://www.bbc.com/news/election-us-2016-37766786"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 216,
+    "authors": "Iron Sheik",
+    "headline": "ASSISTANT ATTORNEY GENERAL TIPPED OFF CLINTON CAMP ABOUT DOJ INVESTIGATION",
+    "type": "3",
+    "urls": "govtslaves.info",
+    "evidence": [
+      "https://www.cnn.com/2016/11/02/politics/peter-kadzik-john-podesta-wikileaks/index.html",
+      "https://www.cbsnews.com/news/the-john-podesta-emails-released-by-wikileaks/"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 217,
+    "authors": "newsguy76",
+    "headline": "SECRET RECORDINGS FUELED FBI FEUD IN CLINTON PROBE",
+    "type": "3",
+    "urls": "govtslaves.info",
+    "evidence": [
+      "https://www.wsj.com/articles/secret-recordings-fueled-fbi-feud-in-clinton-probe-1478135518"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 218,
+    "authors": "Dyanne Weiss",
+    "headline": "U.S. Health Care Lags Behind, Costs More Than Other Countries",
+    "type": "3",
+    "urls": "guardianlv.com",
+    "evidence": [
+      "https://www.reuters.com/article/us-health-spending/u-s-health-spending-twice-other-countries-with-worse-results-idUSKCN1GP2YN"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 219,
+    "authors": "Andrew Bradford",
+    "headline": "NC Trump Supporter Hangs Clinton In Effigy At Rally, Says She Deserves Prison (VIDEO)",
+    "type": "questionable",
+    "urls": "liberalamerica.org",
+    "evidence": [
+      "https://www.nbcnews.com/storyline/2016-election-day/trump-supporter-brings-effigy-clinton-noose-rally-n673716"
+    ],
+    "reason": "Evidence found to support key claims."
+  },
+  {
+    "id": 220,
+    "authors": "",
+    "headline": "The Rise of Mandatory Vaccinations Means the End of Medical Freedom",
+    "type": "0",
+    "urls": "blacklistednews.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 221,
+    "authors": "Admin - Orissa",
+    "headline": "Idaho Mom Loses Two Children for Using Medical Cannabis to Stop Seizures",
+    "type": "1",
+    "urls": "healthimpactnews.com",
+    "evidence": [
+      "https://www.foxnews.com/health/idaho-mom-loses-custody-of-children-after-giving-daughter-marijuana-butter-to-relieve-seizures"
+    ],
+    "reason": "True story manipulated to mislead readers by making unverifiable claims such as 'MMR vaccine caused her spells of aggressive anger'"
+  },
+  {
+    "id": 222,
+    "authors": "Admin - Orissa",
+    "headline": "Obama Legacy: Medical Tyranny? New Order Issued for Detainment and Quarantines",
+    "type": "0",
+    "urls": "healthimpactnews.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/cdc-forced-vaccinations/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 223,
+    "authors": "Whitney Webb",
+    "headline": "Trump: Vaccines Cause Autism And Will Be Investigated",
+    "type": "0",
+    "urls": "healthimpactnews.com",
+    "evidence": [
+      "https://www.washingtonpost.com/news/to-your-health/wp/2015/09/17/the-origins-of-donald-trumps-autismvaccine-theory-and-how-it-was-completely-debunked-eons-ago/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 224,
+    "authors": "Dikran Arakelian (noreply@blogger.com)",
+    "headline": "Video: Doctors Who Discovered Cancer Enzymes In Vaccines All Found Murdered",
+    "type": "0",
+    "urls": "silverdoctors.com",
+    "evidence": [
+      "https://www.politifact.com/punditfact/statements/2017/apr/04/blog-posting/doctors-deaths-were-not-connected-fake-news-websit/"
+    ],
+	"reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 225,
+    "authors": "",
+    "headline": "Charity: Clinton Foundation Distributed “Watered-Down” AIDS Drugs to Sub-Saharan Africa",
+    "type": "0",
+    "urls": "http://eaglerising.com/36899/charity-clinton-foundation-distributed-watered-down-aids-drugs-to-sub-saharan-africa/",
+    "evidence": [
+      "https://www.politifact.com/global-news/statements/2016/sep/23/daily-caller/conservative-website-wrongly-ties-clinton-foundati/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 226,
+    "authors": "Terresa Monroe-Hamilton",
+    "headline": "New Clinton Foundation SCANDAL Just Broke – This Is What Hillary ACTUALLY Thinks About Black People…",
+    "type": "2",
+    "urls": "http://rightwingnews.com/hillary-clinton-2/new-clinton-foundation-scandal-just-broke-hillary-actually-thinks-black-people/",
+    "evidence": [
+      "https://www.politifact.com/global-news/statements/2016/sep/23/daily-caller/conservative-website-wrongly-ties-clinton-foundati/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 227,
+    "authors": "Madeline",
+    "headline": "After terrorizing America with Zika scaremongering, Washington Post now admits Zika virus doesn’t cause brain deformities after all",
+    "type": "2",
+    "urls": "galacticconnection.com",
+    "evidence": [
+      "https://www.nbcnews.com/storyline/zika-virus-outbreak/images-show-zika-s-destruction-babies-brains-n636511",
+      "https://www.theguardian.com/world/2016/aug/24/zika-damage-to-brain-goes-well-beyond-microcephaly-research-shows"
+    ],
+    "reason": "The key claim is false (based on evidence found), however, the article also contains opinions stated as fact."
+  },
+  {
+    "id": 228,
+    "authors": "Admin - Orissa",
+    "headline": "Allergens in Vaccines Are Causing Life-Threatening Food Allergies",
+    "type": "1",
+    "urls": "galacticconnection.com",
+    "evidence": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3890451/"
+    ],
+    "reason": "The key claim is written in such a way so that it misleads people in thinking all the food related allergies in US are caused by vaccines. Found evidence which says allergy is rare."
+  },
+  {
+    "id": 229,
+    "authors": "Admin - Orissa",
+    "headline": "Dr. Humphries: “Acute Flaccid Paralysis” Used to be Called “Polio”",
+    "type": "0",
+    "urls": "healthimpactnews.com",
+    "evidence": [
+      "https://www.healthychildren.org/English/health-issues/conditions/head-neck-nervous-system/Pages/AFM.aspx"
+    ],
+    "reason": "Found evidence to refute key claim that Acute Flaccid Paralysis is same as Polio."
+  },
+  {
+    "id": 230,
+    "authors": "IWB",
+    "headline": "BORDER FLOOD BEFORE VOTE… 275,000 Born to Illegals — In One Year; 7% OF ALL USA BIRTHS… Agent: Admin Treats Crossings ‘Like Traffic Ticket’",
+    "type": "1",
+    "urls": "investmentwatchblog.com",
+    "evidence": [
+      "https://www.pewresearch.org/fact-tank/2016/10/26/number-of-babies-born-to-unauthorized-immigrants-in-u-s-continues-to-decline/"
+    ],
+    "reason": "True story manipulated to mislead readers."
+  },
+  {
+    "id": 231,
+    "authors": "admin",
+    "headline": "WALL STREET JOURNAL JUST EXPOSED EXACTLY HOW & HOW MUCH IT COST HILLARY To BRIBE The FBI to AVOID CHARGES!",
+    "type": "1",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/statements/2016/oct/26/donald-trump/facts-dispute-donald-trumps-claim-donation-fbi-spo/"
+    ],
+    "reason": "Based on PolitiFact rating 'Mostly False' which means 'The statement contains an element of truth but ignores critical facts that would give a different impression.'"
+  },
+  {
+    "id": 232,
+    "authors": "admin",
+    "headline": "ALERT: If You See This Tag on Your Voting Machine, Demand a Paper Ballot",
+    "type": "0",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/statements/2016/oct/31/sean-duffy/wisconsin-congressman-fuels-soros-voting-machine-r/",
+      "https://www.snopes.com/fact-check/george-soros-controls-smartmatic-voting-machines-in-16-states/"
+    ],
+    "reason": "Based on Snopes rating 'False' which means 'the primary elements of a claim are demonstrably false.'"
+  },
+  {
+    "id": 233,
+    "authors": "admin",
+    "headline": "BREAKING: TRUMP MOVES TO FILE CHARGES AGAINST CLINTON!",
+    "type": "1",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.cbsnews.com/news/trump-on-appointing-clinton-special-prosecutor-im-going-to-think-about-it/"
+    ],
+    "reason": "True story manipulated to mislead readers by making unverifiable claims such as 'Hillary Clinton knew about attacks and she ordered them'."
+  },
+  {
+    "id": 234,
+    "authors": "admin",
+    "headline": "BREAKING – Investigative Journalist Found Dead, Was Working For…",
+    "type": "1",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.snopes.com/news/2016/10/24/wikileaks-director-macfadyen-dies/"
+    ],
+    "reason": "True story manipulated to mislead readers by insinuating that Hillary was reponsible for Gavin MacFadyen's death."
+  },
+  {
+    "id": 235,
+    "authors": "admin",
+    "headline": "BREAKING: FBI Deputy Director Exposed As Crooked Hillary’s Accomplice In This Shocking New Crime, She’s Totally Busted",
+    "type": "1",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/statements/2016/oct/26/donald-trump/facts-dispute-donald-trumps-claim-donation-fbi-spo/"
+    ],
+    "reason": "Based on PolitiFact rating 'Mostly False' which means 'The statement contains an element of truth but ignores critical facts that would give a different impression.'"
+  },
+  {
+    "id": 236,
+    "authors": "admin",
+    "headline": "FEAR OF TRUMP: BUSH, OBAMA, CLINTON ALL BUYING PROPERTY IN NON-EXTRADITION NATIONS – WILL TRUMP PROSECUTE THEM",
+    "type": "0",
+    "urls": "jewsnews.co.il",
+    "evidence": [],
+    "reason": "Based on Snopes rating 'False' which means 'the primary elements of a claim are demonstrably false.'"
+  },
+  {
+    "id": 237,
+    "authors": "admin",
+    "headline": "Hillary Clinton’s $500,000 Bribe to the FBI Came Through Virginia – CONFIRMED!",
+    "type": "1",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/statements/2016/oct/26/donald-trump/facts-dispute-donald-trumps-claim-donation-fbi-spo/"
+    ],
+    "reason": "Based on PolitiFact rating 'Mostly False' which means 'The statement contains an element of truth but ignores critical facts that would give a different impression.'"
+  },
+  {
+    "id": 238,
+    "authors": "admin",
+    "headline": "BREAKING: Hillary’s ‘LOCKER ROOM’ Moment…Hidden Cam Catches EXPLOSIVE Video! [WATCH]",
+    "type": "0",
+    "urls": "jewsnews.co.il",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 239,
+    "authors": "admin",
+    "headline": "ALERT – New Bill Clinton Mistress Confirmed, Hillary Camp Panics…",
+    "type": "0",
+    "urls": "jewsnews.co.il",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 240,
+    "authors": "admin",
+    "headline": "SHOCK: 15-Year-Old Document Explodes on Hillary… 21 Children Died",
+    "type": "0",
+    "urls": "jewsnews.co.il",
+    "evidence": [
+      "https://www.snopes.com/fact-check/hillary-clinton-was-responsible-for-the-waco-massacre/"
+    ],
+    "reason": "Based on Snopes rating 'False' which means 'the primary elements of a claim are demonstrably false.'"
+  },
+  {
+    "id": 241,
+    "authors": "Wes Williams",
+    "headline": "Trump Supporter BUSTED Committing Voter Fraud: Trump Says Polls Are ‘Rigged’, So I Had To",
+    "type": "2",
+    "urls": "ifyouonlynews.com",
+    "evidence": [
+      "https://www.washingtonpost.com/news/post-nation/wp/2016/10/29/trump-supporter-charged-with-voting-twice-in-iowa/"
+    ],
+    "reason": "Opinions stated as facts about a true event."
+  },
+  {
+    "id": 242,
+    "authors": "Jameson Parker",
+    "headline": "Love Trumps Hate: GoFundMe To Rebuild Church Torched By Trump Supporter SHATTERS Fundraising Records",
+    "type": "1",
+    "urls": "ifyouonlynews.com",
+    "evidence": [
+      "https://apnews.com/57e8b52fa44743a6b37f2c65fa97d7a4"
+    ],
+    "reason": "True story manipulated to mislead readers by making false claims such as 'Church was Torched By Trump Supporter'"
+  },
+  {
+    "id": 243,
+    "authors": "Allison Vincent",
+    "headline": "One Of Trump’s Deplorables Escaped From His Basket, Injuring Poll Worker In Texas (VIDEO)",
+    "type": "1",
+    "urls": "ifyouonlynews.com",
+    "evidence": [
+      "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/03/someone-in-texas-lined-a-trump-sign-with-razor-blades-then-left-it-at-a-polling-place/"
+    ],
+    "reason": "True story manipulated to mislead readers by making unverifiable claims such as 'the people who did this have listened to Trump’s violent rhetoric'"
+  },
+  {
+    "id": 244,
+    "authors": "Jameson Parker",
+    "headline": "Trump Team Begins Making List Of Executive Orders To ‘Erase Obama’s Presidency’ On Day One",
+    "type": "0",
+    "urls": "ifyouonlynews.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 245,
+    "authors": "Jameson Parker",
+    "headline": "Trump Voter Yells ‘Kill Obama’ At Victory Speech, Only Barron Has Decency To Look Shocked (VIDEO)",
+    "type": "0",
+    "urls": "ifyouonlynews.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 246,
+    "authors": "Jameson Parker",
+    "headline": "Obama Just Did Something To Spite Trump On The President-Elect’s Very First Visit To The White House",
+    "type": "2",
+    "urls": "ifyouonlynews.com",
+    "evidence": [
+      "https://www.wsj.com/articles/trump-obama-set-to-begin-transition-1478787730"
+    ],
+    "reason ": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 247,
+    "authors": "DSG",
+    "headline": "BREAKING! The White House Makes STUNNING Anti-Hillary Move After FBI Announcement",
+    "type": "0",
+    "urls": "ihavethetruth.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/white-house-cancels-all-obama-appearances/"
+    ],
+    "reason": "Based on Snopes rating 'False' which means 'the primary elements of a claim are demonstrably false.'"
+  },
+  {
+    "id": 248,
+    "authors": "Infowars.com",
+    "headline": "Top Clinton Ally Caught Accepting $20k Foreign Donation",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 249,
+    "authors": "Paul Joseph Watson",
+    "headline": "Clinton Campaign Circulated Paul Ryan Relative as Possible Supreme Court Pick",
+    "type": "questionable",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 250,
+    "authors": "Paul Joseph Watson",
+    "headline": "Wikileaks Email: Clinton Operative Thinks “Black Voters Are Stupid”",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 251,
+    "authors": "noreply@blogger.com (Alexander Light)",
+    "headline": "John McCain to Donald Trump: 'Don’t You Dare Make Peace with Russia!'",
+    "type": "2",
+    "urls": "humansarefree.com",
+    "evidence": [],
+    "reason": "The key claim is false (no evidence found in support), however, the article also contains opinions stated as fact."
+  },
+  {
+    "id": 252,
+    "authors": "Michael Hayne",
+    "headline": "Obama Administration Smacks Down Enlistment Bonus Repayments After Republican Congress Does Nothing",
+    "type": "2",
+    "urls": "ifyouonlynews.com",
+    "evidence": [
+      "https://www.theguardian.com/us-news/2016/oct/22/national-guard-soldiers-enlistment-bonuses-california",
+      "https://www.cnn.com/2016/10/24/us/national-guard-recruitment-bonus-repayment/index.html",
+      "https://www.usatoday.com/story/news/politics/2016/10/26/pentagon-not-seek-guard-bonus-paybacks/92765268/"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 253,
+    "authors": "RT",
+    "headline": "Assange claims ‘crazed’ Clinton campaign tried to hack WikiLeaks",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 254,
+    "authors": "Mikael Thalen",
+    "headline": "Exclusive: Dem Senator’s Private Email Hacked",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 255,
+    "authors": "Infowars.com",
+    "headline": "Shocking! Michele Obama & Hillary Caught Glamorizing Date Rape Promoters",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 256,
+    "authors": "Paul Joseph Watson",
+    "headline": "A Vote For Hillary is a Vote For World War 3",
+    "type": "2",
+    "urls": "infowars.com",
+    "evidence": [
+      "https://www.bbc.com/news/election-us-2016-37766786"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 257,
+    "authors": "Paul Joseph Watson",
+    "headline": "Wikileaks Email: Hillary Campaign Struggles to Reach “F**king Dumb” Young People",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 258,
+    "authors": "Jamie White",
+    "headline": "Clinton Insider: Rigging Only Way Hillary Can Win",
+    "type": "2",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "The key claim is false (no evidence found in support), however, the article also contains opinions stated as fact."
+  },
+  {
+    "id": 259,
+    "authors": "Steve Watson",
+    "headline": "2006 Audio Emerges of Hillary Clinton Proposing Rigging Palestine Election",
+    "type": "0",
+    "urls": "infowars.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 260,
+    "authors": "Tyler Durden",
+    "headline": "Assange predicts Trump will lose, accuses Clinton Campaign of trying to hack Wikileaks",
+    "type": "0",
+    "urls": "intellihub.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 261,
+    "authors": "Lexi Morgan",
+    "headline": "Homeless woman protecting Trump’s Hollywood Star gets attacked by big fat guy",
+    "type": "0",
+    "urls": "intellihub.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 262,
+    "authors": "Shepard Ambellas",
+    "headline": "Pieczenik: ‘There is a coup in the White House and we are going to stop it’",
+    "type": "0",
+    "urls": "intellihub.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 263,
+    "authors": "Shepard Ambellas",
+    "headline": "U.S. Intelligence: ‘Expect al-Qaeda attacks Monday in New York, Virginia and Texas’",
+    "type": "1",
+    "urls": "intellihub.com",
+    "evidence": [
+      "https://www.cbsnews.com/news/sources-us-intel-warning-of-possible-al-qaeda-attacks-in-us-monday/",
+      "https://www.businessinsider.com/r-us-warns-about-possible-al-qaeda-attacks-in-virginia-texas-new-york-cbs-2016-11",
+      "https://www.nytimes.com/2016/11/05/nyregion/new-york-police-on-alert-after-warning-of-terror-attack-before-election.html"
+    ],
+    "reason": "True story manipulated to mislead readers by making unverifiable claims such as 'Obama would likely use executive authority to remain in office after declaring a State of Emergency and suspending the elections.'"
+  },
+  {
+    "id": 264,
+    "authors": "Staff Writer",
+    "headline": "Assassination attempt at Reno Trump rally?",
+    "type": "0",
+    "urls": "intellihub.com",
+    "evidence": [
+      "https://www.cnn.com/2016/11/05/politics/trump-rushed-off-stage-at-campaign-rally/index.html",
+      "https://www.theguardian.com/us-news/2016/nov/06/donald-trump-rushed-off-stage--secret-service-agents-rally-in-nevada"
+    ],
+    "reason": "Found evidence to refute key claim that assassination attempt was made."
+  },
+  {
+    "id": 265,
+    "authors": "IWB",
+    "headline": "More Reports Of Votes Flipping From Trump To Clinton In Texas ….election Officials Dismiss Concerns… An Ongoing Cbs4 Voter Fraud Investigation Finds People Voting Twice",
+    "type": "1",
+    "urls": "investmentwatchblog.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/texas-vote-switching/"
+    ],
+    "reason": "Based on Snopes rating 'Mostly False' which means 'the primary elements of a claim are demonstrably false, but some of the ancillary details surrounding the claim may be accurate.'"
+  },
+  {
+    "id": 266,
+    "authors": "Howard Portnoy",
+    "headline": "Clinton held focus groups for 2 years before election to find a ‘rationale’ for running for president",
+    "type": "0",
+    "urls": "libertyunyielding.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 267,
+    "authors": "Howard Portnoy",
+    "headline": "Hillary’s health: Candidate stumbles again boarding campaign plane",
+    "type": "1",
+    "urls": "libertyunyielding.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/hillary-clinton-slipping-on-stairs/"
+    ],
+    "reason": "Based on Snopes rating 'Mixture' which means 'a claim has significant elements of both truth and falsity to it such that it could not fairly be described by any other rating.'"
+  },
+  {
+    "id": 268,
+    "authors": "Deneen Borelli",
+    "headline": "Will this election be decided by votes cast by illegal immigrants?",
+    "type": "0",
+    "urls": "libertyunyielding.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 269,
+    "authors": "Prissy Holly",
+    "headline": "LEAKED: Hillary Would Completely BAN The Most Popular Guns In America",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [],
+    "reason": "Article contains opinions stated as fact."
+  },
+  {
+    "id": 270,
+    "authors": "Amanda Shea",
+    "headline": "Obama Furious After Fed-Up ‘Deplorables’ Drop 41,000-Piece Gift On Him",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [],
+    "reason": "Article contains opinions stated as fact."
+  },
+  {
+    "id": 271,
+    "authors": "Robert Rich",
+    "headline": "Hillary Abruptly Stops At Rally, Couldn’t Hide What Happened Seconds Later",
+    "type": "questionable",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/hillary-clinton-has-parkinsons-disease/",
+      "https://www.washingtonpost.com/news/the-fix/wp/2016/08/23/a-guide-to-hillary-clintons-many-illnesses-as-diagnosed-in-the-conservative-media/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 272,
+    "authors": "Alisha Rich",
+    "headline": "Hillary Arrives At Rally, Makes One Weird Move That Left Onlookers Puzzled",
+    "type": "questionable",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.washingtonpost.com/news/the-fix/wp/2016/08/23/a-guide-to-hillary-clintons-many-illnesses-as-diagnosed-in-the-conservative-media/"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 273,
+    "authors": "Dawn Parabellum",
+    "headline": "BOMBSHELL: Leaked Emails Expose How Muslims Got In Obama’s Administration",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 274,
+    "authors": "Prissy Holly",
+    "headline": "BUSTED: Clinton Foundation Directly Tied To Plot To Steal Election",
+    "type": "0",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/statements/2016/oct/31/sean-duffy/wisconsin-congressman-fuels-soros-voting-machine-r/"
+    ],
+    "reason": "Based on PolitiFact rating 'Pants on Fire' which means 'The statement is not accurate and makes a ridiculous claim.'"
+  },
+  {
+    "id": 275,
+    "authors": "Robert Rich",
+    "headline": "As Hillary Stumbles Up Plane Steps, Cameras Catch What She Tried To Hide",
+    "type": "1",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/hillary-clinton-slipping-on-stairs/"
+    ],
+    "reason": "Based on Snopes rating 'Mixture' which means 'a claim has significant elements of both truth and falsity to it such that it could not fairly be described by any other rating.'"
+  },
+  {
+    "id": 276,
+    "authors": "Amanda Shea",
+    "headline": "Hillary Immediately Runs From Media After What Camera Caught Outside Plane",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [],
+    "reason": "Article contains opinions stated as fact."
+  },
+  {
+    "id": 277,
+    "authors": "Robert Rich",
+    "headline": "As Hillary’s Henchmen Try To Silence WikiLeaks, Assange Gets Sweet Revenge",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [],
+    "reason": "Article contains opinions stated as fact."
+  },
+  {
+    "id": 278,
+    "authors": "Christy Lee Parker",
+    "headline": "Anonymous Released Video Exposing Huma Abedin Days Before FBI Announcement",
+    "type": "0",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.politifact.com/wisconsin/statements/2016/sep/14/sean-duffy/top-hillary-clinton-aide-has-ties-muslim-brotherho/",
+      "https://www.washingtonpost.com/news/fact-checker/wp/2016/08/25/does-huma-abedin-have-ties-to-the-muslim-brotherhood/"
+    ],
+    "reason": "Based on PolitiFact rating 'False' which means 'The statement is not accurate.'"
+  },
+  {
+    "id": 279,
+    "authors": "Dawn Parabellum",
+    "headline": "Businesses Prepare For Hillary Presidency In A Way Sure To PISS Her Off",
+    "type": "2",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.cnn.com/2016/08/11/politics/hillary-clinton-gun-control-second-amendment/index.html",
+      "https://www.washingtonpost.com/news/fact-checker/wp/2016/08/15/the-nras-false-claim-that-hillary-clinton-doesnt-believe-americans-can-keep-guns-at-home/"
+    ],
+    "reason": "The key claim is false (based on evidence), however, the article also contains opinions stated as fact."
+  },
+  {
+    "id": 280,
+    "authors": "Amanda Shea",
+    "headline": "Investigators Horrified At What Was Left Behind In Hillary’s Hotel Room",
+    "type": "1",
+    "urls": "madworldnews.com",
+    "evidence": [
+      "https://www.foxnews.com/politics/clinton-aide-left-classified-info-behind-on-2010-china-trip"
+    ],
+    "reason": "True event manipulated to imply Hillary left the classified documents in the hotel room."
+  },
+  {
+    "id": 281,
+    "authors": "Stefanie MacWilliams",
+    "headline": "Evidence Reveals Possible Link Between Voting Machines And Clinton Foundation",
+    "type": "1",
+    "urls": "mintpressnews.com",
+    "evidence": [
+      "https://www.truthorfiction.com/16-states-caught-rigging-election-george-soros-voting-equipment/"
+    ],
+    "reason": "True story manipulated to mislead readers by making false claims such as 'Clinton Foundation responsible for voting machine glitches'"
+  },
+  {
+    "id": 282,
+    "authors": "Abby Martin",
+    "headline": "Abby Martin Exposes Hillary Clinton Chair John Podesta",
+    "type": "0",
+    "urls": "mintpressnews.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 283,
+    "authors": "Whitney Webb",
+    "headline": "Wikileaks Founder Targets Clinton’s Saudi Connection In Scathing Interview",
+    "type": "1",
+    "urls": "mintpressnews.com",
+    "evidence": [
+      "https://www.politifact.com/truth-o-meter/article/2016/jul/07/fact-checking-donations-clinton-foundation/"
+    ],
+    "reason": "True story of donation manipulated to mislead readers by implying connections with isis."
+  },
+  {
+    "id": 284,
+    "authors": "b",
+    "headline": "Speculation: Trump Promotes NSA Boss Rogers To DNI Because He Leaked The Clinton Emails",
+    "type": "2",
+    "urls": "moonofalabama.org",
+    "evidence": [
+      "https://www.washingtonpost.com/world/national-security/pentagon-and-intelligence-community-chiefs-have-urged-obama-to-remove-the-head-of-the-nsa/2016/11/19/44de6ea6-adff-11e6-977a-1030f822fc35_story.html",
+      "https://www.businessinsider.com/afp-us-pentagon-intelligence-urge-nsa-chiefs-removal-reports-2016-11"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 285,
+    "authors": "",
+    "headline": "World War 3 News: Russia Spits On US As Conflict Ignites, Putin Prepares To Strike - Morning News USA",
+    "type": "0",
+    "urls": "morningnewsusa.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 286,
+    "authors": "J. D. Heyes",
+    "headline": "George Soros on tape: Trump will win popular vote in 'landslide,' but Hillary Clinton's electoral victory is already 'a done deal'",
+    "type": "0",
+    "urls": "naturalnews.com",
+    "evidence": [
+      "https://www.snopes.com/fact-check/george-soros-trump-will-win-popular-vote-by-a-landslide-but-clinton-victory-a-done-deal/"
+    ],
+    "reason": "Based on Snopes rating 'False' which means 'the primary elements of a claim are demonstrably false.'"
+  },
+  {
+    "id": 287,
+    "authors": "",
+    "headline": "Mutiny at the Fbi: Comey warned by his own agents to indict Clinton...",
+    "type": "0",
+    "urls": "naturalnews.com",
+    "evidence": [
+      "https://www.washingtonpost.com/world/national-security/fbi-director-james-b-comey-under-fire-for-his-controversial-decision-on-the-clinton-email-inquiry/2016/10/28/fbad009c-9d57-11e6-a0ed-ab0774c1eaa5_story.html"
+    ],
+    "reason": "Found evidence to refute key claims."
+  },
+  {
+    "id": 288,
+    "authors": "J. D. Heyes",
+    "headline": "Food poverty: 49 million Americans struggle to put food on the table as Obama's economic schemes collapse",
+    "type": "2",
+    "urls": "naturalnews.com",
+    "evidence": [
+      "https://www.cbsnews.com/news/food-insecurity-americans-still-go-hungry-after-a-decade-of-recovery/"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 289,
+    "authors": "The Paper Ostrich",
+    "headline": "Hillary Clinton strangles Bald Eagle",
+    "type": "0",
+    "urls": "newsbiscuit.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 290,
+    "authors": "HangTheBankers.com",
+    "headline": "Donations to Clinton Foundation dry up as Hillary no longer has a 'product to sell'",
+    "type": "0",
+    "urls": "hangthebankers.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 291,
+    "authors": "HangTheBankers.com",
+    "headline": "Australia stops all donations to the corrupt Clinton Foundation",
+    "type": "0",
+    "urls": "hangthebankers.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 292,
+    "authors": "noreply@blogger.com (Alexander Light)",
+    "headline": "Bombshell: Clinton Campaign Was Heavily Funded by Monsanto",
+    "type": "0",
+    "urls": "humansarefree.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 293,
+    "authors": "noreply@blogger.com (Alexander Light)",
+    "headline": "FBI Wants you to Believe It Examined 650,000 Emails in 691,000 Seconds",
+    "type": "2",
+    "urls": "humansarefree.com",
+    "evidence": [],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 294,
+    "authors": "noreply@blogger.com (Alexander Light)",
+    "headline": "Biggest Winners and Losers of the 2016 U.S. Presidential Election",
+    "type": "2",
+    "urls": "humansarefree.com",
+    "evidence": [],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 295,
+    "authors": "noreply@blogger.com (Alexander Light)",
+    "headline": "Chelsea Clinton Being Groomed to Buy Seat in Congress by NWO Handlers — & 'Clinton Cash' Documentary",
+    "type": "0",
+    "urls": "humansarefree.com",
+    "evidence": [],
+    "reason": "No reports from trustworthy sources for the key claims"
+  },
+  {
+    "id": 296,
+    "authors": "Author",
+    "headline": "George Soros Seems to be “a Bit Jealous” These Days | New Eastern Outlook",
+    "type": "2",
+    "urls": "journal-neo.org",
+    "evidence": [],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 297,
+    "authors": "Author",
+    "headline": "John Kerry’s Trip to the South Pole: Nazi Roots “Revisited”? | New Eastern Outlook",
+    "type": "questionable",
+    "urls": "journal-neo.org",
+    "evidence": [
+      "https://www.washingtonpost.com/news/energy-environment/wp/2016/11/14/here-are-pictures-of-john-kerry-in-antarctica-to-remind-you-global-warming-is-still-happening/"
+    ],
+    "reason": "True story manipulated to mislead readers by making unverifiable claims about Nazi roots"
+  },
+  {
+    "id": 298,
+    "authors": "Andrew P. Napolitano",
+    "headline": "The FBI Is the Regime’s Secret Police",
+    "type": "2",
+    "urls": "lewrockwell.com",
+    "evidence": [
+      "https://www.washingtonpost.com/world/national-security/fbi-director-james-b-comey-under-fire-for-his-controversial-decision-on-the-clinton-email-inquiry/2016/10/28/fbad009c-9d57-11e6-a0ed-ab0774c1eaa5_story.html"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  },
+  {
+    "id": 299,
+    "authors": "No Author",
+    "headline": "FBI Agents Mutiny Over Hillary Scandal",
+    "type": "0",
+    "urls": "lewrockwell.com",
+    "evidence": [
+      "https://www.washingtonpost.com/world/national-security/fbi-director-james-b-comey-under-fire-for-his-controversial-decision-on-the-clinton-email-inquiry/2016/10/28/fbad009c-9d57-11e6-a0ed-ab0774c1eaa5_story.html"
+    ],
+    "reason": "Article is fraught with opinions stated as fact about a true event."
+  }
+]

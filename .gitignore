@@ -3,3 +3,5 @@ temp
 temp/*
 .ipynb_checkpoints/*
 weights/*
+TRAIN/*
+logs/*
