@@ -68,7 +68,7 @@ class SelfAttention_gl(Layer):
         kernel_shape_v = (1, self.channels, self.filters_v)
         self.N = input_shape[1]        
         self.gamma = self.add_weight(name='gamma', shape=[1], initializer='zeros', trainable=True)
-        self.lam = self.add_weight(name='lam', shape=[1], initializer='zeros', trainable=True)
+        self.lam = self.add_weight(name='lam', shape=[1], initializer='ones', trainable=True)
         
         self.kernel_q = self.add_weight(shape=kernel_shape_q_k,
                                         initializer='glorot_uniform',
@@ -152,7 +152,7 @@ class CrossAttention_gl(Layer):
         kernel_shape_v = (1, self.channels, self.filters_v)
         self.N = input_shape[1]        
         self.gamma = self.add_weight(name='gamma', shape=[1], initializer='zeros', trainable=True)
-        self.lam = self.add_weight(name='lam', shape=[1], initializer='zeros', trainable=True)
+        self.lam = self.add_weight(name='lam', shape=[1], initializer='ones', trainable=True)
         self.kernel_q = self.add_weight(shape=kernel_shape_q_k,
                                         initializer='glorot_uniform',
                                         name='kernel_q', trainable=True)
