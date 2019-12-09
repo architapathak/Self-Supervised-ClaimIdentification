@@ -385,7 +385,7 @@ class CrossAttention_gl1(Layer):
 
     def compute_output_shape(self, input_shape):
         return [input_shape[-1],self.beta_shape] 
-#----------------------------------exp3 original paper---------------
+#----------------------------------exp3 used in paper---------------
     
 class SelfAttention(Layer):
     def __init__(self, ch, **kwargs):
@@ -393,9 +393,6 @@ class SelfAttention(Layer):
         self.channels = ch
         self.filters_q_k = self.channels // 8
         self.filters_v = self.channels
-        
-#         print(kernel_shape_q_k)
-#         print(self.channels,self.filters_f_g,self.filters_h)
 
     def build(self, input_shape):
         kernel_shape_q_k = (1, self.channels, self.filters_q_k)
@@ -427,7 +424,6 @@ class SelfAttention(Layer):
                                       initializer='zeros',
                                       name='bias_v', trainable=True)
         super(SelfAttention, self).build(input_shape)
-        # Set input spec.
         self.input_spec = InputSpec(ndim=3,
                                     axes={2: input_shape[-1]})
         self.built = True
@@ -474,9 +470,6 @@ class CrossAttention(Layer):
         self.channels = ch
         self.filters_q_k = self.channels // 8
         self.filters_v = self.channels
-        
-#         print(kernel_shape_q_k)
-#         print(self.channels,self.filters_f_g,self.filters_h)
 
     def build(self, input_shape):
 #         print('input_shape:',input_shape)
@@ -509,11 +502,6 @@ class CrossAttention(Layer):
                                       initializer='zeros',
                                       name='bias_v', trainable=True)
         super(CrossAttention, self).build(input_shape)
-        # Set input spec.
-#         self.input_spec = InputSpec(ndim=(3,3),
-#                                     axes={2: input_shape[0][-1],2:input_shape[1][-1]})
-#         self.built = True
-
 
     def call(self, inputs):
         h,x = inputs
