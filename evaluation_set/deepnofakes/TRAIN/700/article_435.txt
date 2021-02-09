@@ -1,9 +1,0 @@
-An artificial intelligence (AI) system that correctly predicted the last three U.S. presidential elections puts Republican nominee Donald Trump ahead of Democrat rival Hillary Clinton in the race to the White House. MogIA was developed by Sanjiv Rai, the founder of Indian start-up Genic.ai. It takes in 20 million data points from public platforms including Google, Facebook, Twitter and YouTube in the U.S. and then analyzes the information to create predictions. 
-
-The AI system was created in 2004, so it has been getting smarter all the time. It had already correctly predicted the results of the Democrat and Republican Primaries. 
-
-Data such as engagement with tweets or Facebook Live videos have been taken into account. The result is that Trump has overtaken the engagement numbers of Barack Obama’s peak in 2008 – the year he came into power – by 25 percent. 
-
-Rai said that his AI system shows that candidate in each election who had leading engagement data ended up winning the elections. 
-
-“If Trump loses, it will defy the data trend for the first time in the last 12 years since Internet engagement began in full earnest,” Rai wrote in a report sent to CNBC.
