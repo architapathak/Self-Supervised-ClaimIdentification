@@ -755,7 +755,7 @@
     "id": 271,
     "authors": "Robert Rich",
     "headline": "Hillary Abruptly Stops At Rally, Couldn’t Hide What Happened Seconds Later",
-    "type": "questionable",
+    "type": "0",
     "urls": "madworldnews.com",
     "evidence": [
       "https://www.snopes.com/fact-check/hillary-clinton-has-parkinsons-disease/",
@@ -767,7 +767,7 @@
     "id": 272,
     "authors": "Alisha Rich",
     "headline": "Hillary Arrives At Rally, Makes One Weird Move That Left Onlookers Puzzled",
-    "type": "questionable",
+    "type": "0",
     "urls": "madworldnews.com",
     "evidence": [
       "https://www.washingtonpost.com/news/the-fix/wp/2016/08/23/a-guide-to-hillary-clintons-many-illnesses-as-diagnosed-in-the-conservative-media/"
@@ -1019,7 +1019,7 @@
     "id": 297,
     "authors": "Author",
     "headline": "John Kerry’s Trip to the South Pole: Nazi Roots “Revisited”? | New Eastern Outlook",
-    "type": "questionable",
+    "type": "1",
     "urls": "journal-neo.org",
     "evidence": [
       "https://www.washingtonpost.com/news/energy-environment/wp/2016/11/14/here-are-pictures-of-john-kerry-in-antarctica-to-remind-you-global-warming-is-still-happening/"
