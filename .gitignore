@@ -1,4 +1,6 @@
 evaluation_set/cdc_ibm/articles/*
+evaluation_set/dnf/raw/*
+evaluation_set/dnf/TRAIN/raw/*
 temp
 temp/*
 .ipynb_checkpoints/*
