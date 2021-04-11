@@ -3,6 +3,7 @@ Repository for paper titled "Self-Supervised Claim Identification for Automated 
 
 ## Citation
 
+```
 @misc{pathak2021selfsupervised,
       title={Self-Supervised Claim Identification for Automated Fact Checking}, 
       author={Archita Pathak and Mohammad Abuzar Shaikh and Rohini Srihari},
@@ -11,3 +12,4 @@ Repository for paper titled "Self-Supervised Claim Identification for Automated 
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
